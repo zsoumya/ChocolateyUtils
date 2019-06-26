@@ -1,3 +1,1 @@
-@echo off
-
-choco list -l
+@choco list -l
