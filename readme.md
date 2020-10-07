@@ -3,7 +3,6 @@
 *[Windows only]*
 A collection of trivial tools that I use on top of Chocolatey.
 
-- **cc** - Shortcut for `C:\ProgramData\chocolatey\lib\choco-cleaner\tools\choco-cleaner-manual.bat`. Requires choco-cleaner (`choco install choco-cleaner`).
 - **checkelev** - Checks if the command prompt is elevated
 - **clocal** - Lists all locally installed Chocolatey packages `choco list -l`
 - **csearch** - Essentially a specialized choco search by id only `choco search %1 --by-id-only --not-broken --approved-only --pre`
